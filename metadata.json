@@ -1,0 +1,7 @@
+{
+  "name": "Hết Nghĩ Nổi",
+  "description": "Ứng dụng giúp bạn đưa ra quyết định nhanh chóng cho việc ăn gì, mặc gì, đi đâu dựa trên tâm trạng và gợi ý từ AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
